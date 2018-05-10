@@ -42,3 +42,8 @@ Các bước tham gia:
 	* Viết chương 5 Triển khai và đánh giá, cụ thể gồm 5.1. của [tài liệu dự án](https://goo.gl/cGdKdp)
 
 	Tóm lại, qua môn học này, em đã thu lượm được rất nhiều kiến thức trong phát triển phần mềm, nâng tầm quan trọng của quá trình (process) trong nhận thức về phát triển phần mềm. Hiểu biết thêm và tuân thủ quy trình phần mềm, giúp nâng cao hiệu suất làm việc cùng với kỹ năng làm việc nhóm. Làm phần mềm không chỉ là code, mà còn là mối quan hệ giữa những người liên quan và giá trị của sản phẩm.
+	
+
+ +- Người chấm: Nguyễn Mạnh Tiến.
+ +- Điểm: 10.
+ +- Nhận xét: Hoàn thành tốt, đầy đủ các khoá học yêu cầu, có tìm hiểu các khoá học tự chọn, tham gia vào các hoạt động nhóm đầy đủ, tích cực 
